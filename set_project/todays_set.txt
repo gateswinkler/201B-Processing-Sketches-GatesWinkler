@@ -1,0 +1,12 @@
+R:2:P:E
+G:2:P:E
+G:1:S:E
+G:1:S:H
+R:1:S:F
+P:1:S:H
+G:3:D:F
+P:1:P:F
+G:3:S:F
+R:1:D:E
+G:2:D:E
+P:3:D:E
